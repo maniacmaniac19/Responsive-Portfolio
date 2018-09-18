@@ -2,4 +2,49 @@
 h1{
     text-align: center;
     font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    color: black;
+    border-radius: 12px;
+}
+
+header{
+    background-color: #b7410e;
+    border-radius: 12px;
+
+}
+
+body{
+    background-image: url("../images/purty_wood_@2X.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
+
+.content {
+    background-color:#b7410e;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+    width: 85%;
+    border-radius: 12px;
+    overflow: auto;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    width:50%;
+    margin: 0 auto;
 }
